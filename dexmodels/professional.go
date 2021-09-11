@@ -14,8 +14,8 @@ type Entry struct {
 
 type EntryCommon struct {
 	Salutation  string `yaml:"salutation"`
-	Firstname   string `yaml:"firstname"`
-	Lastname    string `yaml:"lastname"`
+	Firstname   string `yaml:"first_name"`
+	Lastname    string `yaml:"last_name"`
 	Credentials string `yaml:"credentials"`
 	JobTitle    string `yaml:"job_title"`
 	ShortDesc   string `yaml:"short_desc"` // MarkDown (1 line)
