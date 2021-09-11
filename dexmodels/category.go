@@ -1,4 +1,4 @@
-package models
+package dexmodels
 
 // Category represents a single Category.
 type Category struct {

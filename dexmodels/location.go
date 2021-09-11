@@ -1,4 +1,4 @@
-package models
+package dexmodels
 
 // Location represents a single Location.
 type Location struct {

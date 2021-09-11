@@ -1,4 +1,4 @@
-package models
+package dexmodels
 
 // Entry represents a single Entry.
 type Entry struct {
